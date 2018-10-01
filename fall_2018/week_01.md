@@ -1,22 +1,11 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+> I didn't acheive as much as I would've liked to last week. I was in Texas attending Grace Hopper, and only had time to look through the repository some more.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+> I plan on deciding what specifically I want to work on for the poly website. I also need help with my Pipeline environment, and am going to fix that this week.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
-
-## Notes
-
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+> I am having trouble with running Pipeline on my laptop. This is mainly because I was not on campus last week and couldn't reach out for help during small group.
